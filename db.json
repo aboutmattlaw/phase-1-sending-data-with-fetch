@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,75 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Bryan",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Trey",
+      "dogBreed": "Guitarist",
+      "id": 4
+    },
+    {
+      "dogname": "Page",
+      "dogBreed": "Piano",
+      "id": 5
+    },
+    {
+      "dogname": "Page",
+      "dogBreed": "Piano",
+      "id": 6
+    },
+    {
+      "dogname": "Page",
+      "dogBreed": "Piano",
+      "id": 7
+    },
+    {
+      "dogname": "Page",
+      "dogBreed": "Piano",
+      "id": 8
+    },
+    {
+      "dogname": "Page",
+      "dogBreed": "Piano",
+      "id": 9
+    },
+    {
+      "dogname": "Page",
+      "dogBreed": "Piano",
+      "id": 10
+    },
+    {
+      "dogname": "Page",
+      "dogBreed": "Piano",
+      "id": 11
+    },
+    {
+      "dogName": "d",
+      "dogBreed": "d",
+      "id": 12
+    },
+    {
+      "dogName": "dkjsd",
+      "dogBreed": "sdkj",
+      "id": 13
+    },
+    {
+      "dogName": "d",
+      "dogBreed": "d",
+      "id": 14
+    },
+    {
+      "dogName": "d",
+      "dogBreed": "d",
+      "id": 15
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -22,9 +89,11 @@
     }
   ],
   "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
